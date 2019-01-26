@@ -1,4 +1,4 @@
-# PRT_CODE
+# Notepad++ Hightlighter for ProRealTime Code 
 
 SETUP of Notepad++ for Prorealcode:
 If you like to save your code in ".txt" document on your computer and read it in Notepad++  I done a custom language definition to retrieve the same "color" as prorealtime platform and crate your code "offline". 
